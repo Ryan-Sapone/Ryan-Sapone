@@ -1,11 +1,37 @@
 <h1>Hi, I'm Ryan! <br/</h1>
-<h3><i>I am a dedicated learner of all things IT and cyber security. I grew up alongside technology ever since the first iPod. Computers have always been a passion of mine, along with learning how to break into them as well as secure them. My main interests include penetration testing, threat hunting, and computer networking.</i></h3><br/>
+<h3><i>I am a dedicated learner of all things IT and cyber security. I grew up alongside technology even before the first iPod. Computers have always been a passion of mine, along with learning how to break into them as well as secure them. My main interests include penetration testing, threat hunting, and computer networking.</i></h3><br/>
 <h2><b>Hard Skills:</b> <i>Computer Hardware, Networking, Troubleshooting, Microsoft Windows, Linux, Python Scripting, Penetration Testing</i><br/><br/>
 <b>Soft Skills:</b> <i>Customer Service, Organization, Resourcefulness, Teamwork, Curiosity, Dedication, Adaptability</i></h2><br/>
 
 <h2><b>Personal Projects</b></h2>
 <b>Virtual Hacking Labs:</b><br/>
 <a href="https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab">Nmap Scans and Wireshark Anaylsis</a><br/><br/>
+
+
+<h2><b>Certifications</b></h2>
+<b>Google:</b></br>
+Google IT Support Professional Certificate (June 21, 2022)</br></br>
+<b>CompTIA:</b></br>
+Network+ (July 13, 2022)</br></br>
+
+<h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
+<b>LinkedIn Learning:</b></br>
+Advance Your Skills as an IT Help Desk Specialist (July 14, 2022) | 19 hours</br>
+Become a Cybersecurity Professional (July 7, 2022) | 5 hours</br>
+Staring Your Career in Tech: Security (July 6, 2022) | 5 hours</br>
+Become an IT Security Specialist (June 16, 2022) | 20 hours</br>
+Become a Network Administrator (May 30, 2022) | 30 hours</br></br>
+
+<b>Udemy:</b></br>
+Python Complete Masterclass for Beginners (July 6, 2022) | 30 hours</br>
+IT Support Technical Skills Helpdesk (June 20, 2022) | 11 hours</br>
+Certified Ethical Hacker (CEH) Certification Prep Course (May 19, 2022) | 6.5 hours</br></br>
+
+<b>TryHackMe:</b></br>
+CompTIA Pentest+ Learning Path (July 14, 2022)</br>
+Introduction to Cyber Security Learning Path (July 8, 2022)</br>
+Complete Beginner Learning Path (July 8, 2022)</br>
+Pre Security Learning Path (April 29, 2022)</br></br>
 
 <h2>Where To Find Me</h2>
 <a href="https://www.linkedin.com/in/ryansapone/">LinkedIn</a><br/>
