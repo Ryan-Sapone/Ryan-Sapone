@@ -18,7 +18,7 @@ Network+ (July 13, 2022)</br></br>
 <b>LinkedIn Learning:</b></br>
 Advance Your Skills as an IT Help Desk Specialist (July 14, 2022) | 19 hours</br>
 Become a Cybersecurity Professional (July 7, 2022) | 5 hours</br>
-Staring Your Career in Tech: Security (July 6, 2022) | 5 hours</br>
+Starting Your Career in Tech: Security (July 6, 2022) | 5 hours</br>
 Become an IT Security Specialist (June 16, 2022) | 20 hours</br>
 Become a Network Administrator (May 30, 2022) | 30 hours</br></br>
 
