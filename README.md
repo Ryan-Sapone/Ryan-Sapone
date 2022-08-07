@@ -30,10 +30,10 @@ IT Support Technical Skills Helpdesk (June 20, 2022) | 11 hours</br>
 Certified Ethical Hacker (CEH) Certification Prep Course (May 19, 2022) | 6.5 hours</br></br>
 
 <b>TryHackMe:</b></br>
-CompTIA Pentest+ Learning Path (July 14, 2022)</br>
-Introduction to Cyber Security Learning Path (July 8, 2022)</br>
-Complete Beginner Learning Path (July 8, 2022)</br>
-Pre Security Learning Path (April 29, 2022)</br></br>
+CompTIA Pentest+ Learning Path (July 14, 2022) | 51 hours</br>
+Introduction to Cyber Security Learning Path (July 8, 2022) | 24 hours</br>
+Complete Beginner Learning Path (July 8, 2022) | 64 hours</br>
+Pre Security Learning Path (April 29, 2022) | 40 hours</br></br>
 
 <h2>Where To Find Me</h2>
 <a href="https://www.linkedin.com/in/ryansapone/">LinkedIn</a><br/>
