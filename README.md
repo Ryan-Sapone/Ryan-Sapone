@@ -4,7 +4,8 @@
 <b>Soft Skills:</b> <i>Customer Service, Organization, Resourcefulness, Teamwork, Curiosity, Dedication, Adaptability</i></h2><br/>
 
 <h2><b>Personal Projects</b></h2>
-<b>Virtual Hacking Labs:</b><br/>
+<b>Virtual Labs:</b><br/>
+<a href="https://github.com/Ryan-Sapone/Active-Directory-Setup">Active Directory and Network Services</a><br/>
 <a href="https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab">Nmap Scans and Wireshark Anaylsis</a><br/><br/>
 
 
