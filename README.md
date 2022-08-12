@@ -12,6 +12,8 @@
 <h2><b>Certifications</b></h2>
 <b>Google:</b></br>
 Google IT Support Professional Certificate (June 21, 2022)</br></br>
+<b>Axelos:</b></br>
+ITIL Foundation (August 10, 2022)</br></br>
 <b>CompTIA:</b></br>
 Network+ (July 13, 2022)</br></br>
 
