@@ -26,10 +26,10 @@ Starting Your Career in Tech: Security (July 6, 2022) | 5 hours</br>
 Become an IT Security Specialist (June 16, 2022) | 20 hours</br>
 Become a Network Administrator (May 30, 2022) | 30 hours</br></br>
 
-<b>TCM Security</b></br>
+<b>TCM Security:</b></br>
 Linux 101 (August 18, 2022) | 5.5 hours</br></br>
 
-<b>Simply Cyber School</b></br>
+<b>Simply Cyber School:</b></br>
 The Definitive GRC Analyst Master Class (August 21, 2022) | 7 hours</br></br>
 
 <b>Udemy:</b></br>
