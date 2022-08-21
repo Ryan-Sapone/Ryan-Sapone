@@ -29,6 +29,9 @@ Become a Network Administrator (May 30, 2022) | 30 hours</br></br>
 <b>TCM Security</b></br>
 Linux 101 (August 18, 2022) | 5.5 hours</br></br>
 
+<b>Simply Cyber School</b></br>
+The Definitive GRC Analyst Master Class (August 21, 2022) | 7 hours</br></br>
+
 <b>Udemy:</b></br>
 Python Complete Masterclass for Beginners (July 6, 2022) | 30 hours</br>
 IT Support Technical Skills Helpdesk (June 20, 2022) | 11 hours</br>
