@@ -5,6 +5,7 @@
 
 <h2><b>Personal Projects</b></h2>
 <b>Virtual Labs:</b><br/>
+<a href="https://github.com/Ryan-Sapone/Malware-Analysis">Malware Analysis</a><br/>
 <a href="https://github.com/Ryan-Sapone/Active-Directory-Setup">Active Directory</a><br/>
 <a href="https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab">Nmap Scans and Wireshark Anaylsis</a><br/><br/>
 
