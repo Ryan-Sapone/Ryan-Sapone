@@ -29,6 +29,7 @@ Become an IT Security Specialist (June 16, 2022) | 20 hours</br>
 Become a Network Administrator (May 30, 2022) | 30 hours</br></br>
 
 <b>TCM Security:</b></br>
+Practical Malware Analysis & Triage (August 30, 2022) | 9 hours</br)
 Linux 101 (August 18, 2022) | 5.5 hours</br></br>
 
 <b>Simply Cyber School:</b></br>
