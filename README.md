@@ -23,6 +23,7 @@ Network+ (July 13, 2022)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 <b>LinkedIn Learning:</b></br>
+Become a Customer Support Specialist (September 8, 2022) | 7 hours</br>
 Become an IT Support Technician (July 31, 2022) | 24.5 hours</br>
 Advance Your Skills as an IT Help Desk Specialist (July 14, 2022) | 18.5 hours</br>
 Become a Cybersecurity Professional (July 7, 2022) | 5 hours</br>
