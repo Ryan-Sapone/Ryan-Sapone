@@ -41,6 +41,7 @@ Linux 101 (August 18, 2022) | 5.5 hours</br></br>
 The Definitive GRC Analyst Master Class (August 21, 2022) | 7 hours</br></br>
 
 <b>Udemy:</b></br>
+Modern HTML & CSS From The Beginning (Including Sass) | 21 hours</br>
 Python Complete Masterclass for Beginners (July 6, 2022) | 30 hours</br>
 IT Support Technical Skills Helpdesk (June 20, 2022) | 11 hours</br>
 Certified Ethical Hacker (CEH) Certification Prep Course (May 19, 2022) | 6.5 hours</br></br>
