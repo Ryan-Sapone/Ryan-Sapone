@@ -24,6 +24,7 @@ Network+ (July 13, 2022)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 <b>LinkedIn Learning:</b></br>
+Become a Web Developer (October 12, 2022) | 21.5 hours</br>
 Understanding Cloud Fundamentals (September 30, 2022) | 11 hours</br>
 Become a Customer Support Specialist (September 8, 2022) | 7 hours</br>
 Become an IT Support Technician (July 31, 2022) | 24.5 hours</br>
