@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan! <br/</h1>
+<h1>Hi, I'm Ryan! <br/></h1>
 <h3><i>I am a dedicated learner of all things IT and cyber security. I grew up alongside technology even before the first iPod. Computers have always been a passion of mine, along with learning how to break into them as well as secure them. My main interests include penetration testing, threat hunting, and computer networking.</i></h3><br/>
 <h2><b>Hard Skills:</b> <i>Computer Hardware, Networking, Troubleshooting, Microsoft Windows, Linux, Python Scripting, Penetration Testing</i><br/><br/>
 <b>Soft Skills:</b> <i>Customer Service, Organization, Resourcefulness, Teamwork, Curiosity, Dedication, Adaptability</i></h2><br/>
@@ -59,7 +59,7 @@ Pre Security Learning Path (April 29, 2022) | 40 hours</br></br>
 
 <h2>Where To Find Me</h2>
 <a href="https://www.linkedin.com/in/ryansapone/">LinkedIn</a><br/>
-<a href="https://tryhackme.com/p/HotelSix">TryHackMe</a><br/>
-<a href="https://app.letsdefend.io/public_profile/user/HotelSix/62e7216f-ba93-4474-8c72-bb075090e3a7/">LetsDefend</a><br/>
-<a href="https://app.hackthebox.com/users/958395">Hack The Box</a>
+<a href="https://tryhackme.com/p/HotelSix" target="_blank" target="_blank">TryHackMe</a><br/>
+<a href="https://app.letsdefend.io/public_profile/user/HotelSix/62e7216f-ba93-4474-8c72-bb075090e3a7/" target="_blank">LetsDefend</a><br/>
+<a href="https://app.hackthebox.com/users/958395" target="_blank">Hack The Box</a>
 
