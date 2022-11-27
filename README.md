@@ -47,6 +47,7 @@ Linux 101 (August 18, 2022) | 5.5 hours</br></br>
 The Definitive GRC Analyst Master Class (August 21, 2022) | 7 hours</br></br>
 
 <b>Udemy:</b></br>
+Advanced Cryptography Concepts (November 27, 2022) | 4.5 hours</br>
 The Complete SQL Bootcamp 2022: Go from Zero to Hero (November 13, 2022) | 9 hours</br>
 The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (November 7, 2022) | 37.5 hours</br>
 Web Development Ultimate Guide 2022 (October 12, 2022) | 11 hours</br>
