@@ -27,6 +27,7 @@ Network+ (July 13, 2022)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 <b>LinkedIn Learning:</b></br>
+Explore a Career in Computer Forensics (December 16, 2022) | 16 hours<br>
 Become a SQL Developer (October 25, 2022) | 10.5 hours<br>
 Become a Web Developer (October 12, 2022) | 21.5 hours</br>
 Understanding Cloud Fundamentals (September 30, 2022) | 11 hours</br>
