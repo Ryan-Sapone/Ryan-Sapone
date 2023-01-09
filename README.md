@@ -16,6 +16,9 @@
 <h2><b>Certifications</b></h2>
 <b>(ISC)²:</b></br>
 Certified in Cybersecurity (September 3, 2022)</br></br>
+
+<b>Microsoft:</b></br>
+Azure Fundamentals (AZ-900) (January 9, 2023)</br></br>
 <b>Google:</b></br>
 Google IT Support Professional Certificate (June 21, 2022)</br></br>
 <b>Axelos:</b></br>
