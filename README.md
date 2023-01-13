@@ -18,6 +18,7 @@
 Certified in Cybersecurity (September 3, 2022)</br></br>
 
 <b>Microsoft:</b></br>
+Security, Compliance, and Identity Fundamentals (SC-900) (January 13, 2023)</br>
 Azure Fundamentals (AZ-900) (January 9, 2023)</br></br>
 <b>Google:</b></br>
 Google IT Support Professional Certificate (June 21, 2022)</br></br>
