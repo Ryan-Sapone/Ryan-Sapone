@@ -35,10 +35,10 @@ Network+ (July 13, 2022)</br></br>
 
 <h3>2023</h3>
 <b>LinkedIn Learning</b></br>
-Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br>
+Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TryHackMe:</b></br>
-Cyber Defense Learning Path (January 25, 2023)</br>
+Cyber Defense Learning Path (January 26, 2023) | 48 hours</br>
 
 <h3>2022 (551 Hours)</h3>
 <b>LinkedIn Learning:</b></br>
