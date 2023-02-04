@@ -35,6 +35,7 @@ Network+ (July 13, 2022)</br></br>
 
 <h3>2023</h3>
 <b>LinkedIn Learning</b></br>
+Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certification Exam (2022) (February 4, 2023) | 16 hours</br>
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TryHackMe:</b></br>
