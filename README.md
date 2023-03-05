@@ -11,6 +11,7 @@
 <a href="https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab">Nmap Scans and Wireshark Anaylsis</a><br/><br/>
 
 <b>Scripts:</b><br/>
+<a href="https://github.com/Ryan-Sapone/Log-Writer">Log Writer</a>
 <a href="https://github.com/Ryan-Sapone/hashkitty">hashkitty (password cracker)</a>
 
 
