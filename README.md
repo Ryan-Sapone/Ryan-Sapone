@@ -42,6 +42,9 @@ Master the OWASP Top 10 (March 12, 2023) | 3 hours</br>
 Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certification Exam (2022) (February 4, 2023) | 16 hours</br>
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
+<b>TCM Security</b></br>
+Open-Source Intelligence (OSINT) Fundamentals (March 18, 2023) | 9 hours</br>
+
 <b>TryHackMe:</b></br>
 Cyber Defense Learning Path (January 26, 2023) | 48 hours</br>
 
