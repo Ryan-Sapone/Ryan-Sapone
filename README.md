@@ -43,6 +43,7 @@ Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certificati
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TCM Security</b></br>
+Python 201 for Hackers (April 2, 2023) | 7.5 hours</br>
 Open-Source Intelligence (OSINT) Fundamentals (March 18, 2023) | 9 hours</br>
 
 <b>TryHackMe:</b></br>
