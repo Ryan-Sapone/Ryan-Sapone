@@ -11,7 +11,7 @@
 <a href="https://github.com/Ryan-Sapone/Nmap-and-Wireshark-Lab">Nmap Scans and Wireshark Anaylsis</a><br/><br/>
 
 <b>Scripts:</b><br/>
-HunterGather (OSINT gathering tool - coming soon)<br>
+<a href="https://github.com/Ryan-Sapone/HunterGather">HunterGather</a> (OSINT gathering tool - coming soon)<br>
 <a href="https://github.com/Ryan-Sapone/Log-Writer">Log Writer</a><br>
 <a href="https://github.com/Ryan-Sapone/hashkitty">hashkitty (password cracker)</a>
 
