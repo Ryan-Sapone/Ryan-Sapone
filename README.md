@@ -18,6 +18,7 @@
 
 <h2><b>Certifications</b></h2>
 <b>(ISC)²:</b></br>
+Systems Security Certified Practitioner (May 18, 2023)</br>
 Certified in Cybersecurity (September 3, 2022)</br></br>
 
 <b>Microsoft:</b></br>
