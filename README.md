@@ -45,6 +45,7 @@ Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certificati
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TCM Security</b></br>
+Windows Privilege Escalation for Beginners (June 18, 2023) | 7 hours</br>
 External Pentest Playbook (April 30, 2023) | 3.5 hours</br>
 Practical Ethical Hacking - The Complete Course (April 29, 2023) | 25 hours</br>
 Python 201 for Hackers (April 2, 2023) | 7.5 hours</br>
