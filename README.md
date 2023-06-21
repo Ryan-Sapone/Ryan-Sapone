@@ -51,6 +51,9 @@ Practical Ethical Hacking - The Complete Course (April 29, 2023) | 25 hours</br>
 Python 201 for Hackers (April 2, 2023) | 7.5 hours</br>
 Open-Source Intelligence (OSINT) Fundamentals (March 18, 2023) | 9 hours</br>
 
+<b>InfraGard</b></br>
+OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023) | 3 hours</br>
+
 <b>TryHackMe:</b></br>
 Cyber Defense Learning Path (January 26, 2023) | 48 hours</br>
 
