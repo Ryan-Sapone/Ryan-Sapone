@@ -17,15 +17,6 @@
 
 
 <h2><b>Certifications</b></h2>
-<b>(ISC)²:</b></br>
-Systems Security Certified Practitioner (May 18, 2023)</br>
-Certified in Cybersecurity (September 3, 2022)</br></br>
-
-<b>Microsoft:</b></br>
-Security, Compliance, and Identity Fundamentals (SC-900) (January 13, 2023)</br>
-Azure Fundamentals (AZ-900) (January 9, 2023)</br></br>
-<b>Google:</b></br>
-Google IT Support Professional Certificate (June 21, 2022)</br></br>
 <b>Axelos:</b></br>
 ITIL Foundation (August 10, 2022)</br></br>
 <b>CompTIA:</b></br>
@@ -35,10 +26,21 @@ Project+ (December 28, 2022)</br>
 Security+ (September 21, 2022)</br>
 A+ (August 29, 2022)</br>
 Network+ (July 13, 2022)</br></br>
+<b>Google:</b></br>
+Google IT Support Professional Certificate (June 21, 2022)</br></br>
+<b>(ISC)²:</b></br>
+Systems Security Certified Practitioner (May 18, 2023)</br>
+Certified in Cybersecurity (September 3, 2022)</br></br>
+<b>Microsoft:</b></br>
+Security, Compliance, and Identity Fundamentals (SC-900) (January 13, 2023)</br>
+Azure Fundamentals (AZ-900) (January 9, 2023)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 
 <h3>2023</h3>
+<b>InfraGard</b></br>
+OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023) | 3 hours</br></br>
+
 <b>LinkedIn Learning</b></br>
 Master the OWASP Top 10 (March 12, 2023) | 3 hours</br>
 Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certification Exam (2022) (February 4, 2023) | 16 hours</br>
@@ -49,13 +51,13 @@ Windows Privilege Escalation for Beginners (June 18, 2023) | 7 hours</br>
 External Pentest Playbook (April 30, 2023) | 3.5 hours</br>
 Practical Ethical Hacking - The Complete Course (April 29, 2023) | 25 hours</br>
 Python 201 for Hackers (April 2, 2023) | 7.5 hours</br>
-Open-Source Intelligence (OSINT) Fundamentals (March 18, 2023) | 9 hours</br>
-
-<b>InfraGard</b></br>
-OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023) | 3 hours</br>
+Open-Source Intelligence (OSINT) Fundamentals (March 18, 2023) | 9 hours</br></br>
 
 <b>TryHackMe:</b></br>
-Cyber Defense Learning Path (January 26, 2023) | 48 hours</br>
+Cyber Defense Learning Path (January 26, 2023) | 48 hours</br></br>
+
+<b>Udemy</b></br>
+Windows & AD Pentesting - Hands-on Lab Scenarios (June 28, 2023) | 3 hours</br></br>
 
 <h3>2022 (551 Hours)</h3>
 <b>LinkedIn Learning:</b></br>
@@ -71,14 +73,21 @@ Starting Your Career in Tech: Security (July 6, 2022) | 5 hours</br>
 Become an IT Security Specialist (June 16, 2022) | 20 hours</br>
 Become a Network Administrator (May 30, 2022) | 30 hours</br></br>
 
+<b>Simply Cyber School:</b></br>
+The Definitive GRC Analyst Master Class (August 21, 2022) | 7 hours</br></br>
+
 <b>TCM Security:</b></br>
 Practical Windows Forensics (December 18, 2022) | 11 hours</br>
 Python 101 for Hackers (October 15, 2022) | 5.5 hours</br>
 Practical Malware Analysis & Triage (August 30, 2022) | 9 hours</br>
 Linux 101 (August 18, 2022) | 5.5 hours</br></br>
 
-<b>Simply Cyber School:</b></br>
-The Definitive GRC Analyst Master Class (August 21, 2022) | 7 hours</br></br>
+<b>TryHackMe:</b></br>
+Web Fundamentals Learning Path (August 18, 2022) | 32 hours</br>
+CompTIA Pentest+ Learning Path (July 14, 2022) | 51 hours</br>
+Introduction to Cyber Security Learning Path (July 8, 2022) | 24 hours</br>
+Complete Beginner Learning Path (July 8, 2022) | 64 hours</br>
+Pre Security Learning Path (April 29, 2022) | 40 hours</br></br>
 
 <b>Udemy:</b></br>
 Advanced Cryptography Concepts (November 27, 2022) | 4.5 hours</br>
@@ -91,16 +100,9 @@ Python Complete Masterclass for Beginners (July 6, 2022) | 30 hours</br>
 IT Support Technical Skills Helpdesk (June 20, 2022) | 11 hours</br>
 Certified Ethical Hacker (CEH) Certification Prep Course (May 19, 2022) | 6.5 hours</br></br>
 
-<b>TryHackMe:</b></br>
-Web Fundamentals Learning Path (August 18, 2022) | 32 hours</br>
-CompTIA Pentest+ Learning Path (July 14, 2022) | 51 hours</br>
-Introduction to Cyber Security Learning Path (July 8, 2022) | 24 hours</br>
-Complete Beginner Learning Path (July 8, 2022) | 64 hours</br>
-Pre Security Learning Path (April 29, 2022) | 40 hours</br></br>
-
 <h2>Where To Find Me</h2>
 <a href="https://www.linkedin.com/in/ryansapone/">LinkedIn</a><br/>
 <a href="https://tryhackme.com/p/HotelSix">TryHackMe</a><br/>
 <a href="https://app.letsdefend.io/public_profile/user/HotelSix/62e7216f-ba93-4474-8c72-bb075090e3a7/">LetsDefend</a><br/>
-<a href="https://app.hackthebox.com/users/958395">Hack The Box</a>
+
 
