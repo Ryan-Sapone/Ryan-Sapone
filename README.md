@@ -12,6 +12,7 @@
 
 <b>Scripts:</b><br/>
 <a href="https://github.com/Ryan-Sapone/HunterGather">HunterGather</a> (OSINT gathering tool)<br>
+<a href="https://github.com/Ryan-Sapone/Password-Checker">Password Checker</a><br>
 <a href="https://github.com/Ryan-Sapone/Log-Writer">Log Writer</a><br>
 <a href="https://github.com/Ryan-Sapone/hashkitty">hashkitty (password cracker)</a>
 
