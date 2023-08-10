@@ -36,6 +36,7 @@ Certified in Cybersecurity (September 3, 2022)</br></br>
 Security, Compliance, and Identity Fundamentals (SC-900) (January 13, 2023)</br>
 Azure Fundamentals (AZ-900) (January 9, 2023)</br></br>
 <b>TCM Security</b></br>
+Practical Network Penetration Tester (PNPT) (August 10, 2023)</br>
 Practical Junior Penetration Tester (PJPT) (July 15, 2023)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
