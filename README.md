@@ -46,6 +46,7 @@ Practical Junior Penetration Tester (PJPT) (July 15, 2023)</br></br>
 OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023) | 3 hours</br></br>
 
 <b>LinkedIn Learning</b></br>
+Become an Ethical Hacker (August 29, 2023) | 32 hours</br>
 Master the OWASP Top 10 (March 12, 2023) | 3 hours</br>
 Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certification Exam (2022) (February 4, 2023) | 16 hours</br>
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
