@@ -106,9 +106,5 @@ Python Complete Masterclass for Beginners (July 6, 2022) | 30 hours</br>
 IT Support Technical Skills Helpdesk (June 20, 2022) | 11 hours</br>
 Certified Ethical Hacker (CEH) Certification Prep Course (May 19, 2022) | 6.5 hours</br></br>
 
-<h2>Where To Find Me</h2>
-<a href="https://www.linkedin.com/in/ryansapone/">LinkedIn</a><br/>
-<a href="https://tryhackme.com/p/HotelSix">TryHackMe</a><br/>
-<a href="https://app.letsdefend.io/public_profile/user/HotelSix/62e7216f-ba93-4474-8c72-bb075090e3a7/">LetsDefend</a><br/>
 
 
