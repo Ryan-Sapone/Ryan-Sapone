@@ -21,6 +21,7 @@
 <b>Axelos:</b></br>
 ITIL Foundation (August 10, 2022)</br></br>
 <b>CompTIA:</b></br>
+CASP+ (October 7, 2023)</br>
 PenTest+ (March 10, 2023)</br>
 CySA+ (February 17, 2023)</br>
 Project+ (December 28, 2022)</br>
