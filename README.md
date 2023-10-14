@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ryan! <br/></h1>
 <h3><i>I am a dedicated learner of all things IT and cyber security. I grew up alongside technology even before the first iPod. Computers have always been a passion of mine, along with learning how to break into them as well as secure them. My main interests include penetration testing, threat hunting, and computer networking.</i></h3><br/>
-<h2><b>Hard Skills:</b> <i>Computer Hardware, Networking, Troubleshooting, Microsoft Windows, Linux, Python Scripting, Penetration Testing</i><br/><br/>
-<b>Soft Skills:</b> <i>Customer Service, Organization, Resourcefulness, Teamwork, Curiosity, Dedication, Adaptability</i></h2><br/>
+<h2><b>Hard Skills:</b> <i>Information Security, Network Security, Web Application Security, Penetration Testing, Vulnerability Management, Python</i><br/><br/>
+<b>Soft Skills:</b> <i>Communication, Analytical Skills, Problem Solving, Critical Thinking, Multitasking, Ethics</i></h2><br/>
 
 <h2><b>Personal Projects</b></h2>
 <b>Virtual Labs:</b><br/>
