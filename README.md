@@ -64,6 +64,7 @@ Open-Source Intelligence (OSINT) Fundamentals (March 18, 2023) | 9 hours</br></b
 Cyber Defense Learning Path (January 26, 2023) | 48 hours</br></br>
 
 <b>Udemy</b></br>
+Website Hacking / Penetration Testing (October 14, 2023) | 10.5 total hours</br>
 Windows & AD Pentesting - Hands-on Lab Scenarios (June 28, 2023) | 3 hours</br></br>
 
 <h3>2022 (551 Hours)</h3>
