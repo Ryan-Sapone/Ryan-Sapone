@@ -30,7 +30,7 @@ A+ (August 29, 2022)</br>
 Network+ (July 13, 2022)</br></br>
 <b>Google:</b></br>
 Google IT Support Professional Certificate (June 21, 2022)</br></br>
-<b>(ISC)²:</b></br>
+<b>ISC2:</b></br>
 Systems Security Certified Practitioner (May 18, 2023)</br>
 Certified in Cybersecurity (September 3, 2022)</br></br>
 <b>Microsoft:</b></br>
@@ -49,7 +49,7 @@ OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023
 <b>LinkedIn Learning</b></br>
 Become an Ethical Hacker (August 29, 2023) | 32 hours</br>
 Master the OWASP Top 10 (March 12, 2023) | 3 hours</br>
-Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certification Exam (2022) (February 4, 2023) | 16 hours</br>
+Prepare for the ISC2 Certified Cloud Security Professional (CCSP) Certification Exam (2022) (February 4, 2023) | 16 hours</br>
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TCM Security</b></br>
