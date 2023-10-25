@@ -53,6 +53,7 @@ Prepare for the (ISC)² Certified Cloud Security Professional (CCSP) Certificati
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TCM Security</b></br>
+Practical API Hacking (October 25, 2023) | 6 hours</br>
 Practical Web Application Security and Testing (October 19, 2023) | 9 hours</br>
 Linux Privilege Escalation for Beginners (August 1, 2023) | 6.5 hours</br>
 Windows Privilege Escalation for Beginners (June 18, 2023) | 7 hours</br>
