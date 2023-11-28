@@ -54,6 +54,7 @@ Prepare for the ISC2 Certified Cloud Security Professional (CCSP) Certification 
 Improve Your Wireshark Skills (January 7, 2023) | 9 hours</br></br>
 
 <b>TCM Security</b></br>
+Practical Bug Bounty (November 27, 2023) | 9.5 hours</br>
 Mobile Application Penetration Testing (November 16, 2023) | 7 hours</br>
 Practical API Hacking (October 25, 2023) | 6 hours</br>
 Practical Web Application Security and Testing (October 19, 2023) | 9 hours</br>
