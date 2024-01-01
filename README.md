@@ -44,7 +44,7 @@ Practical Junior Penetration Tester (PJPT) (July 15, 2023)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 
-<h3>2023 (223.5 hours)</h3>
+<h3>2023 (223.5 Hours)</h3>
 <b>InfraGard</b></br>
 OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023) | 3 hours</br></br>
 
