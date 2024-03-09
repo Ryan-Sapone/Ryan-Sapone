@@ -46,6 +46,9 @@ Practical Junior OSINT Researcher (PJOR) (February 29, 2024)</br></br>
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 
 <h3>2024</h3>
+
+<b>LinkedIn Learning</b></br>
+Networking and Administration Fundamentals (March 9, 2024) | 17.5 hours</br></br>
 <b>TCM Security</b></br>
 Movement, Pivoting, & Persistence (March 9, 2024) | 5 hours</br></br>
 
