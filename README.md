@@ -45,6 +45,10 @@ Practical Junior OSINT Researcher (PJOR) (February 29, 2024)</br></br>
 
 <h2><b>Continuing Education - Courses, Certificates, Achievements</b></h2>
 
+<h3>2024</h3>
+<b>TCM Security</b></br>
+Movement, Pivoting, & Persistence (March 9, 2024) | 5 hours</br></br>
+
 <h3>2023 (223.5 Hours)</h3>
 <b>InfraGard</b></br>
 OSINT INTERMEDIATE: Organizing and Optimizing Your Investigations (June 20, 2023) | 3 hours</br></br>
