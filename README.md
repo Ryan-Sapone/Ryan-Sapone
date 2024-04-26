@@ -5,6 +5,7 @@
 
 <h2><b>Personal Projects</b></h2>
 <b>Virtual Labs:</b><br/>
+<a href="https://github.com/Ryan-Sapone/Web-Pentest-Report">Web Pentest Sample Report</a><br/>
 <a href="https://github.com/Ryan-Sapone/Autopsy-Forensics/blob/main/Walkthrough.md">Autopsy Forensic Investigation</a><br/>
 <a href="https://github.com/Ryan-Sapone/Malware-Analysis">Malware Analysis</a><br/>
 <a href="https://github.com/Ryan-Sapone/Active-Directory-Setup">Active Directory</a><br/>
