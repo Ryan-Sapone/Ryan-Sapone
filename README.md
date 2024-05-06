@@ -53,6 +53,7 @@ Practical Junior Penetration Tester (PJPT) (July 15, 2023)</br></br>
 Explore a Career in Application Security (April 1, 2024) | 17.5 hours</br>
 Networking and Administration Fundamentals (March 9, 2024) | 17.5 hours</br></br>
 <b>TCM Security</b></br>
+Practical Web Hacking (May 6, 2024) | 10 hours</br>
 Soft Skills for the Job Market (April 2, 2024) | 7 hours</br>
 Practical Phishing Campaigns (March 19, 2024) | 3 hours</br>
 Movement, Pivoting, & Persistence (March 9, 2024) | 5 hours</br></br>
