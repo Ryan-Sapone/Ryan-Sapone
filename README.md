@@ -50,6 +50,7 @@ Practical Junior Penetration Tester (PJPT) (July 15, 2023)</br></br>
 <h3>2024</h3>
 
 <b>LinkedIn Learning</b></br>
+Strategies for Managing Vulnerabilities and Mitigating Cyber Risks (May 18, 2024) | 9.5 hours</br>
 Explore a Career in Application Security (April 1, 2024) | 17.5 hours</br>
 Networking and Administration Fundamentals (March 9, 2024) | 17.5 hours</br></br>
 <b>TCM Security</b></br>
