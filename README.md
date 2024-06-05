@@ -54,6 +54,7 @@ Strategies for Managing Vulnerabilities and Mitigating Cyber Risks (May 18, 2024
 Explore a Career in Application Security (April 1, 2024) | 17.5 hours</br>
 Networking and Administration Fundamentals (March 9, 2024) | 17.5 hours</br></br>
 <b>TCM Security</b></br>
+Beginner's Guide to IoT and Hardware Hacking (June 5, 2024) | 13 hours</br>
 Practical Web Hacking (May 6, 2024) | 10 hours</br>
 Soft Skills for the Job Market (April 2, 2024) | 7 hours</br>
 Practical Phishing Campaigns (March 19, 2024) | 3 hours</br>
